@@ -3,7 +3,7 @@
 // @description Allows for an unlimited amount of saves on Pixlr.com
 // @version 2.0.0
 // @icon https://repository-images.githubusercontent.com/691387917/16f4c271-27e2-4e73-8cca-edc98d40304e
-// @updateURL https://raw.githubusercontent.com/Oshanotter/Unlimited-Saves/main/Unlimited-Saves.js
+// @updateURL https://raw.githubusercontent.com/Oshanotter/Unlimited-Saves/main/Unlimited-Saves.user.js
 // @namespace Oshanotter
 // @author Max Forst
 // @include https://pixlr.com/e/*
