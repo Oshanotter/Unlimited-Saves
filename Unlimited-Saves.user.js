@@ -6,7 +6,7 @@
 // @updateURL https://raw.githubusercontent.com/Oshanotter/Unlimited-Saves/main/Unlimited-Saves.user.js
 // @namespace Oshanotter
 // @author Max Forst
-// @include https://pixlr.com/e/*
+// @include https://pixlr.com/*
 // @run-at document-start
 // ==/UserScript==
 
